@@ -26,7 +26,7 @@
 
 2019年は主に社内ツールを開発していました。
 
-2020年からは[Reckoner](https://reckoner.io)というクラウド型ETL/データパイプラインサービスのバックエンド(REST API)とフロントエンド(Web)の開発をしています。
+2020年からは[Reckoner](https://reckoner.io)というクラウド型ETL/データパイプラインサービスのバックエンド(REST API)とWebフロントエンドの開発をしています。
 
 バックエンドはGo、フロントエンドはReact(TypeScript)で開発しています。
 
@@ -52,9 +52,7 @@ APIはどちらもGoで開発しており、クリーンアーキテクチャを
 
 ## 🛠 Skills
 
-### 💻 Technology
-
-#### Go ⭐️⭐️⭐️⭐️
+### Go ⭐️⭐️⭐️⭐️
 
 最も精通しているプログラミング言語であり、1年程度の実務経験があります。
 
@@ -64,23 +62,38 @@ APIはどちらもGoで開発しており、クリーンアーキテクチャを
 
 [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)というオープンソースのORMへコントリビュートした経験があります。
 
-#### Git ⭐⭐⭐
+### Git ⭐⭐⭐
 
 プログラミングを始めた当初からGitHubと共に使用しており、実務では5~10人程度のチーム開発経験があります。
 
-#### JavaScript/TypeScript ⭐⭐
+### JavaScript/TypeScript ⭐⭐
 
 Goの次によく書くプログラミング言語です。主に実務で、Reactを使用したWebフロントエンドの開発に利用しています。
+
+### GCP ⭐️⭐️
+
+インターンや個人開発(Align)で使用しています。
+
+あまり複雑ではない構成のWeb API、サービスを構築できる程度の能力と考えてもらえれば問題ないかと思います。
+
+使用経験のあるプロダクトは以下の通りです。
+
+- AppEngine(standard, flexible)
+- Cloud Build
+- Cloud Run(managed)
+- Cloud SQL(MySQL)
+- Cloud Storage
+- Memorystore(Redis)
 
 ---
 
 ## 🗣 Languages
 
-### Japanese 🇯🇵⭐️⭐️⭐️⭐️⭐
+### 🇯🇵 Japanese ⭐️⭐️⭐️⭐️⭐
 
 母国語です。
 
-### English 🇺🇸🇬🇧⭐⭐
+### 🇺🇸🇬🇧 English ⭐⭐
 
 Google TranslateやDeepLの力を借りなくても日常生活を辛うじてできるくらいの言語力だと思われます。GitHub上のコミュニケーションやドキュメントを読むことなどについては特に問題なく行えます。
 
