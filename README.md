@@ -1,6 +1,12 @@
 # 👔 Ren Ogaki's Resume
 
-> N高等学校に在籍する東京在住の高校2年生。Webプログラマとして1年程度の実務経験があります。
+N高等学校に在籍する東京在住の高校2年生。
+
+Webプログラマ(バックエンド/フロントエンド)として1年半程度の実務経験があります。
+
+分野や技術にそこまでこだわりはなく、様々な言語やフレームワーク、ツールを使ってみたいという気持ちが強いです。
+
+フロントエンドよりバックエンドの方が得意です。
 
 ## 📎 Information
 
@@ -16,19 +22,26 @@
 
 📃 [Wantedly](https://www.wantedly.com/users/121072822)
 
+📝 [Qiita](https://qiita.com/yuzuy)
+
 ---
 
 ## **👩🏻‍💻** Work experience
 
-### Web Programmer(Internship)
+### Programmer(Internship)
+***BASE BANK, Inc**, Japan/Tokyo – (Feb 2021 - Present)*
 
-***3-shake Inc**, Japan/Tokyo – (Nov 2019 - Present)*
+### Web Back-End Programmer(Internship)
 
-2019年は主に社内ツールを開発していました。
+***3-shake, Inc**, Japan/Tokyo – (Nov 2019 - Present)*
 
-2020年からは[Reckoner](https://reckoner.io)というクラウド型ETL/データパイプラインサービスのバックエンド(REST API)とWebフロントエンドの開発をしています。
+入社当初はGoを使った社内ツールを開発していました。
 
-バックエンドはGo、フロントエンドはReact(TypeScript)で開発しています。
+2020年の初めから[Reckoner](https://reckoner.io)というクラウド型ETL/データパイプラインサービスのバックエンド(REST API)とWebフロントエンドの開発をしています。
+
+バックエンドはGo、フロントエンドはReact(TypeScript)を使用しています。
+
+主に新機能開発を担当していましたが、最近は勤務日数が少なくなった関係上リファクタリング系のタスクを担当しています。
 
 ---
 
@@ -40,7 +53,7 @@
 
 バッテリー残量が近い人とマッチングし、互いのバッテリー残量が離れてしまうとチャットが強制切断されてしまう、早期の別れを前提とした新しいランダムマッチングチャットアプリです。
 
-[未踏ジュニア2020年度採択](https://jr.mitou.org/projects/2020#align)([最終発表動画](https://www.youtube.com/watch?v=r8WlvrgwB4k)・[スライド](https://speakerdeck.com/___soprog/wei-ta-ziyunia2020-align-zui-zhong-fa-biao-zi-liao))。
+[未踏ジュニア2020年度採択](https://jr.mitou.org/projects/2020/align)([最終発表動画](https://www.youtube.com/watch?v=r8WlvrgwB4k)・[スライド](https://speakerdeck.com/___soprog/wei-ta-ziyunia2020-align-zui-zhong-fa-biao-zi-liao))。
 
 バックエンド(REST/WebSocket API)の開発、インフラ、総務系のタスクを担当しています。
 
@@ -54,7 +67,7 @@ APIはどちらもGoで開発しており、クリーンアーキテクチャを
 
 ### Go ⭐️⭐️⭐️⭐️
 
-最も精通しているプログラミング言語であり、1年程度の実務経験があります。
+最も精通しているプログラミング言語であり、1年半程度の実務経験があります。
 
 主にバックエンド(REST/WebSocket API)の開発で使用しており、フレームワークは[gin-gonic/gin](https://github.com/gin-gonic/gin)や[gofiber/fiber](https://github.com/gofiber/fiber)を使用しています。
 
@@ -96,12 +109,6 @@ Goの次によく書くプログラミング言語です。主に実務で、Rea
 ### 🇺🇸🇬🇧 English ⭐⭐
 
 Google TranslateやDeepLの力を借りなくても日常生活を辛うじてできるくらいの言語力だと思われます。GitHub上のコミュニケーションやドキュメントを読むことなどについては特に問題なく行えます。
-
----
-
-## 📜 Articles
-
-- [Qiita](https://qiita.com/yuzuy)
 
 ---
 
