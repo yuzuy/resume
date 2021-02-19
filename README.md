@@ -26,7 +26,7 @@ Webプログラマ(バックエンド/フロントエンド)として1年半程�
 
 ---
 
-## **👩🏻‍💻** Work Experience
+## **🧑‍💻** Work Experience
 
 ### Programmer(Internship)
 ***BASE BANK, Inc**, Japan/Tokyo – (Feb 2021 - Present)*
