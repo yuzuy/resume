@@ -31,7 +31,7 @@ Webプログラマ(バックエンド/フロントエンド)として1年半程�
 ### Programmer(Internship)
 ***BASE BANK, Inc.** Japan/Tokyo – (Feb 2021 - Present)*
 
-YELL BANKという資金調達サービスのバックエンド(Go, PHP)の開発やTerraformを用いたインフラ定義(AWS)を行っています。
+[YELL BANK](https://thebase.in/yellbank)という資金調達サービスのバックエンド(Go, PHP)の開発やTerraformを用いたインフラ定義(AWS)等を行っています。
 
 ### Web Back-End Programmer(Internship)
 
