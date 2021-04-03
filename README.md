@@ -1,12 +1,12 @@
 # 👔 Ren Ogaki's Resume
 
-N高等学校に在籍する東京在住の高校2年生。
+N高等学校に在籍する東京在住の高校3年生。
 
 Webプログラマ(バックエンド/フロントエンド)として1年半程度の実務経験があります。
 
 分野や技術にそこまでこだわりはなく、様々な言語やフレームワーク、ツールを使ってみたいという気持ちが強いです。
 
-フロントエンドよりバックエンドの方が得意です。
+フロントエンドよりバックエンドの方が好きで得意です。
 
 ## 📎 Information
 
@@ -29,19 +29,17 @@ Webプログラマ(バックエンド/フロントエンド)として1年半程�
 ## **🧑‍💻** Work Experience
 
 ### Programmer(Internship)
-***BASE BANK, Inc**, Japan/Tokyo – (Feb 2021 - Present)*
+***BASE BANK, Inc.** Japan/Tokyo – (Feb 2021 - Present)*
+
+YELL BANKという資金調達サービスのバックエンド(Go, PHP)の開発やTerraformを用いたインフラ定義(AWS)を行っています。
 
 ### Web Back-End Programmer(Internship)
 
-***3-shake, Inc**, Japan/Tokyo – (Nov 2019 - Present)*
+***3-shake, Inc.** Japan/Tokyo – (Nov 2019 - Present)*
 
-入社当初はGoを使用して社内ツールを開発していました。
+[Reckoner](https://reckoner.io)というクラウド型ETL/データパイプラインサービスのバックエンド(Go)とWebフロントエンド(React&TypeScript)の開発を行っています。
 
-2020年の初めから[Reckoner](https://reckoner.io)というクラウド型ETL/データパイプラインサービスのバックエンド(REST API)とWebフロントエンドの開発をしています。
-
-バックエンドはGo、フロントエンドはReact(TypeScript)を使用しています。
-
-主に新機能開発を担当していましたが、最近は勤務日数が少なくなった関係上リファクタリング系のタスクを担当しています。
+主に新機能開発(設計からAPI,UIの実装まで)とリファクタリング系のタスクを担当しています。
 
 ---
 
@@ -59,7 +57,7 @@ Webプログラマ(バックエンド/フロントエンド)として1年半程�
 
 APIはどちらもGoで開発しており、クリーンアーキテクチャを採用しています。
 
-インフラはGCPを使用しており、サーバーはどちらもAppEngine(std, flex)にホスティングしています。ミドルウェアはMySQLとRedis、認証はFirebase Authentication、エラー監視はSentryを使用しています。
+インフラはGCPを使用しており、サーバーはどちらもAppEngine(standard)とCloud Run(managed)にホスティングしています。ミドルウェアはMySQLとRedis、認証はFirebase Authentication、エラー監視はSentryを使用しています。
 
 ---
 
@@ -89,15 +87,6 @@ Goの次によく書くプログラミング言語です。主に実務で、Rea
 
 あまり複雑ではない構成のWeb API、サービスを構築できる程度の能力と考えてもらえれば問題ないかと思います。
 
-使用経験のあるプロダクトは以下の通りです。
-
-- AppEngine(standard, flexible)
-- Cloud Build
-- Cloud Run(managed)
-- Cloud SQL(MySQL)
-- Cloud Storage
-- Memorystore(Redis)
-
 ---
 
 ## 🗣 Languages
@@ -114,6 +103,6 @@ Google TranslateやDeepLの力を借りなくても日常生活を辛うじて�
 
 ## 📚 Education
 
-### N high school(学校法人角川ドワンゴ学園 N高等学校)
+### N High School(学校法人角川ドワンゴ学園 N高等学校)
 
 *Apr 2019 - Present(Expected graduation: Mar 2022)*
