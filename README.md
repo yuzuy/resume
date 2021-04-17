@@ -57,7 +57,7 @@ Webプログラマ(バックエンド/フロントエンド)として1年半程�
 
 APIはどちらもGoで開発しており、クリーンアーキテクチャを採用しています。
 
-インフラはGCPを使用しており、サーバーはどちらもAppEngine(standard)とCloud Run(managed)にホスティングしています。ミドルウェアはMySQLとRedis、認証はFirebase Authentication、エラー監視はSentryを使用しています。
+インフラはGCPを使用しており、サーバーはAppEngine(standard)とCloud Run(managed)にホスティングしています。ミドルウェアはMySQLとRedis、認証はFirebase Authentication、エラー監視はSentryを使用しています。
 
 ---
 
