@@ -28,14 +28,14 @@ Webプログラマ(バックエンド/フロントエンド)として1年半程�
 
 ## **🧑‍💻** Work Experience
 
-### Programmer(Internship)
+### Web Back-End Developer(Internship)
 ***BASE BANK, Inc.** Japan/Tokyo – (Feb 2021 - Present)*
 
 [YELL BANK](https://thebase.in/yellbank)という資金調達サービスのバックエンド(Go, PHP)の開発やTerraformを用いたインフラ定義(AWS)等を行っています。
 
-### Web Back-End Programmer(Internship)
+### Web Back-End/Front-End Developer(Internship)
 
-***3-shake, Inc.** Japan/Tokyo – (Nov 2019 - Present)*
+***3-shake, Inc.** Japan/Tokyo – (Nov 2019 - Apr 2021)*
 
 [Reckoner](https://reckoner.io)というクラウド型ETL/データパイプラインサービスのバックエンド(Go)とWebフロントエンド(React&TypeScript)の開発を行っています。
 
@@ -69,7 +69,7 @@ APIはどちらもGoで開発しており、クリーンアーキテクチャを
 
 主にバックエンド(REST/WebSocket API)の開発で使用しており、フレームワークは[gin-gonic/gin](https://github.com/gin-gonic/gin)や[gofiber/fiber](https://github.com/gofiber/fiber)を使用しています。
 
-趣味では[yuzuy/yoru](https://github.com/yuzuy/yoru)というインタプリタや様々なCLIツールを作成しています。e.g. [yuzuy/cmdclip](https://github.com/yuzuy/cmdclip), [yuzuy/todo-cli](https://github.com/yuzuy/todo-cli), [yuzuy/firebase-idtoken-gen](https://github.com/yuzuy/firebase-idtoken-gen), etc...
+趣味では[yuzuy/yoru](https://github.com/yuzuy/yoru)というインタプリタや様々なCLIツールを作成しています。e.g. [yuzuy/gurl](https://github.com/yuzuy/gurl), [yuzuy/todo-cli](https://github.com/yuzuy/todo-cli), [yuzuy/firebase-idtoken-gen](https://github.com/yuzuy/firebase-idtoken-gen), etc...
 
 [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler)というオープンソースのORMへコントリビュートした経験があります。
 
