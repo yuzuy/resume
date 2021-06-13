@@ -37,9 +37,9 @@ Webプログラマ(バックエンド/フロントエンド)として1年半程�
 
 ***3-shake, Inc.** Japan/Tokyo – (Nov 2019 - Apr 2021)*
 
-[Reckoner](https://reckoner.io)というクラウド型ETL/データパイプラインサービスのバックエンド(Go)とWebフロントエンド(React&TypeScript)の開発を行っています。
+[Reckoner](https://reckoner.io)というクラウド型ETL/データパイプラインサービスのバックエンド(Go)とWebフロントエンド(React&TypeScript)の開発を行っていました。
 
-主に新機能開発(設計からAPI,UIの実装まで)とリファクタリング系のタスクを担当しています。
+主に新機能開発(設計からAPI,UIの実装まで)とリファクタリング系のタスクを担当していました。
 
 ---
 
