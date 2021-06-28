@@ -22,7 +22,9 @@ Webプログラマ(バックエンド/フロントエンド)として1年半程�
 
 📃 [Wantedly](https://www.wantedly.com/users/121072822)
 
-📝 [Qiita](https://qiita.com/yuzuy)
+📝 Articles
+- [Qiita](https://qiita.com/yuzuy)
+- [Zenn](https://zenn.dev/yuzuy)
 
 ---
 
